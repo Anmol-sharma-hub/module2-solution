@@ -1,0 +1,50 @@
+.abc
+{
+	background-color: gray;
+	border: solid;
+	margin-top: 30px;
+	/*height: 300px;*/
+
+}
+.jumbotron
+{
+	text-align: center;
+	background-color: transparent;
+}
+.zzz
+{
+	background-color: #fc7187;
+    float: right;
+    width: 84px;
+    height: 29px;
+    text-align: center;
+    margin-right: -18px;
+    margin-top: -1px;
+    border: solid;
+}
+.yyy
+{
+	background-color: #c14543;
+    float: right;
+    width: 84px;
+    height: 29px;
+    text-align: center;
+    margin-right: -18px;
+    border: solid;
+    margin-top: -1px;
+}
+.xxx
+{
+	background-color: #e5d198;
+    float: right;
+    width: 84px;
+    height: 29px;
+    text-align: center;
+    margin-right: -18px;
+    border: solid;
+    margin-top: -1px;
+}
+div > div > p
+{
+	margin-top: 46px;
+}
